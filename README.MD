@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccP
 
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
-## Stes to use this project
+## Steps to use this project
 
 Checkout a new branch for each lesson i.e.
 
